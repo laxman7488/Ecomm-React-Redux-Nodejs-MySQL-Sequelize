@@ -25,11 +25,23 @@ cd server && npm start
 - The Node.js API endpoints are accessible at `http://localhost:8080`.
 
 ## Screenshots
+
+### Home
 ![Home](documentation/screenshots/Home.png)
-![Shop](documentation/screenshots/Shop.png)
+
+### Shop
+![Shop](documentation/screenshots/shop.png)
+
+### Shop by Category
 ![Shop by Category](documentation/screenshots/Shop-By-Category.png)
-![Search on Shop](documentation/screenshots/search-on-shop.png)
+
+### Search by Category
+![Search on Shop](documentation/screenshots/seach-on-shop.png)
+
+### Cart
 ![Cart](documentation/screenshots/cart.png)
+
+### Thank You
 ![Thank You](documentation/screenshots/Thank-You.png)
 
 ## Contributing
